@@ -1,0 +1,3 @@
+﻿namespace Restaurant.DinningArea.Domain
+
+
